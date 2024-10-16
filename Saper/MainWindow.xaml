@@ -1,0 +1,26 @@
+﻿<Window x:Class="Saper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Saper"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="Сапёр" SizeToContent="WidthAndHeight" ResizeMode="CanMinimize">
+    <Grid x:Name="MainGrid" Height="100" Width="320">
+        <Button x:Name="StartButton" Content="Начать" HorizontalAlignment="Center" Margin="0,30,0,0" VerticalAlignment="Top" Height="37" Width="72" Click="StartButton_Click" />
+        <Label Content="Кол-во мин" HorizontalAlignment="Center" Margin="150,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="Размер поля" HorizontalAlignment="Center" Margin="-150,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="Флаги:" HorizontalAlignment="Center" Margin="-270,0,0,0" VerticalAlignment="Top"/>
+        <Label Content="Время" HorizontalAlignment="Center" Margin="270,0,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="FlagsCountLabel" Content="0" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="-270,31,0,0"/>
+        <Label x:Name="TimeCountLabel" Content="0" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="270,31,0,0"/>
+        <RadioButton x:Name="SetSize10x10" Content="10x10" HorizontalAlignment="Center" Margin="-150,31,0,0" VerticalAlignment="Top" IsChecked="True" GroupName="SizeField" Checked="SetSize10x10_Checked"/>
+        <RadioButton x:Name="SetSize20x20" Content="20x20" HorizontalAlignment="Center" Margin="-150,52,0,0" VerticalAlignment="Top" GroupName="SizeField" Checked="SetSize20x20_Checked"/>
+        <RadioButton x:Name="SetSize30x30" Content="30x30" HorizontalAlignment="Center" Margin="-150,72,0,0" VerticalAlignment="Top" GroupName="SizeField" Checked="SetSize30x30_Checked"/>
+        <RadioButton x:Name="SetBomb10" Content="10%" HorizontalAlignment="Center" Margin="150,31,0,0" VerticalAlignment="Top" IsChecked="True" GroupName="CountBomb" Checked="SetBomb10_Checked"/>
+        <RadioButton x:Name="SetBomb20" Content="20%" HorizontalAlignment="Center" Margin="150,52,0,0" VerticalAlignment="Top" GroupName="CountBomb" Checked="SetBomb20_Checked"/>
+        <RadioButton x:Name="SetBomb30" Content="30%" HorizontalAlignment="Center" Margin="150,72,0,0" VerticalAlignment="Top" GroupName="CountBomb" Checked="SetBomb30_Checked"/>
+
+    </Grid>
+</Window>

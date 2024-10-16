@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YandexDisk\\Sources\\C#\\Saper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28374D24-EA67-4217-9988-274A80B16B3D}|Saper\\Saper.csproj|d:\\yandexdisk\\sources\\c#\\saper\\saper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28374D24-EA67-4217-9988-274A80B16B3D}|Saper\\Saper.csproj|solutionrelative:saper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28374D24-EA67-4217-9988-274A80B16B3D}|Saper\\Saper.csproj|d:\\yandexdisk\\sources\\c#\\saper\\saper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28374D24-EA67-4217-9988-274A80B16B3D}|Saper\\Saper.csproj|solutionrelative:saper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28374D24-EA67-4217-9988-274A80B16B3D}|Saper\\Saper.csproj|d:\\yandexdisk\\sources\\c#\\saper\\saper\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{28374D24-EA67-4217-9988-274A80B16B3D}|Saper\\Saper.csproj|solutionrelative:saper\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\YandexDisk\\Sources\\C#\\Saper\\Saper\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Saper\\MainWindow.xaml",
+              "ToolTip": "D:\\YandexDisk\\Sources\\C#\\Saper\\Saper\\MainWindow.xaml",
+              "RelativeToolTip": "Saper\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T19:42:26.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\YandexDisk\\Sources\\C#\\Saper\\Saper\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Saper\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\YandexDisk\\Sources\\C#\\Saper\\Saper\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Saper\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAwN8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:42:26.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\YandexDisk\\Sources\\C#\\Saper\\Saper\\App.xaml",
+              "RelativeDocumentMoniker": "Saper\\App.xaml",
+              "ToolTip": "D:\\YandexDisk\\Sources\\C#\\Saper\\Saper\\App.xaml",
+              "RelativeToolTip": "Saper\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T19:42:26.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
